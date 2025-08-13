@@ -492,7 +492,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image:'https://i.ibb.co/pBy3vKYY/MEF-AAP-027-BAP-2025-08-13-20-22-32.png',
+            image:'https://i.ibb.co/7N23CPws/MEF-AAP-027-BAP-2025-08-13-20-28-16.png',
             description: '.',
             location: {
                 center: [28.981, 41.027],
